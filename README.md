@@ -1,4 +1,4 @@
-Spring MVC Project for PLP and PDP Pages
+# Spring MVC Project for PLP and PDP Pages
 This is a Spring MVC project that aims to create Product Listing Page (PLP) and Product Detail Page (PDP) using Java. The project utilizes data samples from Commercetools, specifically sunrise data, to display the products.
 
 Features
